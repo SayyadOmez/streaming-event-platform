@@ -1,0 +1,4 @@
+{"event_id":"a","device_id":"d1","event_time":"2026-01-01T12:00:00Z","temperature":21.5}
+{"event_id":"b","device_id":"d1","event_time":"2026-01-01T12:01:00Z","temperature":22.1}
+{"event_id":"a","device_id":"d1","event_time":"2026-01-01T12:00:00Z","temperature":21.5}
+{"event_id":"bad","device_id":"d2","event_time":"invalid","temperature":20}
